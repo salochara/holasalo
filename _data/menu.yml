@@ -1,0 +1,31 @@
+entries:
+  - title: education
+    entries:
+      - title: Computer Science at Tecnológico de Monterrey
+      - title: Tel Aviv University (Semester abroad)
+  - title: work
+    entries:
+      - title: "<strong>(Current)</strong> Lead Teacher at <a href='https://lewagon.com' target='_blank' rel='noopener noreferrer'>Le Wagon</a>"
+      - title: "<strong>(Current)</strong> Tech Consultant at <a href='https://holasoyvioletta.org/' target='_blank' rel='noopener noreferrer'>Hola Soy Violetta</a>"
+      - title: "Software Engineer at <a href='https://www.housecallpro.com/' target='_blank' rel='noopener noreferrer'>HouseCallPro</a>"
+      - title: "Software Engineer at <a href='https://www.herb.delivery/' target='_blank' rel='noopener noreferrer'>Herb</a>"
+      - title: "Software Engineer at <a href='https://www.michelada.io/' target='_blank' rel='noopener noreferrer'>Michelada</a>"
+      - title: "Software Engineer Intern at <a href='https://www.ibm.com/' target='_blank' rel='noopener noreferrer'>IBM</a>"
+  - title: life
+    entries:
+      - title: Yoga Certified Instructor (200hrs) 🧘🏼‍
+      - title: Marathon Runner 🏃🏻
+      - title: Fan of bouldering and the outdoors 🌱
+
+  - title: community
+    entries:
+      - title: "Here's my <a href='https://world.hey.com/salomon' target='_blank' rel='noopener noreferrer'>blog</a>"
+      - title: "OSS Contributor in <a href='https://github.com/joemasilotti/railsdevs.com' target='_blank' rel='noopener noreferrer'>RailsDevs</a>"
+
+  - title: social
+    entries:
+      - title: "<a href='mailto:salomon@hey.com' target='_blank' rel='noopener noreferrer'>E-mail</a>"
+      - title: "<a href='https://www.linkedin.com/in/salochara/' target='_blank' rel='noopener noreferrer'>LinkedIn</a>"
+      - title: "<a href='https://twitter.com/salochara' target='_blank' rel='noopener noreferrer'>Twitter</a>"
+
+
