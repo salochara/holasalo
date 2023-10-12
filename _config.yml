@@ -28,6 +28,7 @@ twitter_username: salochara
 github_username:  salochara
 
 # Build settings
+theme: no-style-please
 remote-theme: riggraz/no-style-please
 
 theme_config:
