@@ -13,9 +13,9 @@ entries:
       - title: "Software Engineer Intern at <a href='https://www.ibm.com/' target='_blank' rel='noopener noreferrer'>IBM</a>"
   - title: life
     entries:
-      - title: Yoga Certified Instructor (200hrs) 🧘🏼‍
-      - title: Marathon Runner 🏃🏻
-      - title: Fan of bouldering and the outdoors 🌱
+      - title: "Yoga Certified Instructor (200hrs) <span class='emoji'>🧘</span>"
+      - title: "Marathon Runner <span class='emoji'>🏃🏻</span>"
+      - title: "Fan of bouldering and the outdoors <span class='emoji'>🌱</span>"
 
   - title: community
     entries:
