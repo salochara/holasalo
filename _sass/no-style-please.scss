@@ -12,11 +12,15 @@ body[a="dark"] { @include dark-appearance; }
 
 // To not invert emoji when in dark mode.
 // https://github.com/riggraz/no-style-please/issues/28
-.emoji { filter: invert(1); }
-
+// Updated style:
+body[a="dark"] .emoji, body[a="auto"]:is(.emoji) {
+  filter: invert(1);
+}
 
 @media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
+  body[a="auto"] .emoji {
+    filter: invert(1);
+  }
 }
 // -------------------------------------------- //
 
@@ -100,3 +104,6 @@ img {
 a:link, a:visited {
   color: blue;
 }
+
+
+
