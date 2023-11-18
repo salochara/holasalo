@@ -19,8 +19,9 @@ entries:
 
   - title: community
     entries:
-      - title: "Here's my <a href='https://world.hey.com/salomon' target='_blank' rel='noopener noreferrer'>blog</a>"
+      - title: "<strong>(New)</strong> OSS Contributor in <a href='https://github.com/faker-ruby/faker' target='_blank' rel='noopener noreferrer'>Faker</a>"
       - title: "OSS Contributor in <a href='https://github.com/joemasilotti/railsdevs.com' target='_blank' rel='noopener noreferrer'>RailsDevs</a>"
+      - title: "Here's my <a href='https://world.hey.com/salomon' target='_blank' rel='noopener noreferrer'>blog</a>"
 
   - title: social
     entries:
