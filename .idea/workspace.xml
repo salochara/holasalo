@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6b9c791-8001-4c35-8281-501ceb66b4f2" name="Changes" comment="" />
+    <list default="true" id="a6b9c791-8001-4c35-8281-501ceb66b4f2" name="Changes" comment="Add OSS contributor to faker">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/menu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/menu.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,6 +28,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -44,11 +51,122 @@
       <updated>1695931632763</updated>
       <workItem from="1695931633786" duration="5707000" />
       <workItem from="1696460129203" duration="4091000" />
-      <workItem from="1697067455416" duration="305000" />
+      <workItem from="1697067455416" duration="4343000" />
+      <workItem from="1697502950090" duration="1103000" />
+      <workItem from="1697655782520" duration="598000" />
+      <workItem from="1698183995560" duration="1612000" />
+      <workItem from="1698692203161" duration="597000" />
+      <workItem from="1698780997158" duration="3338000" />
+      <workItem from="1699048176078" duration="3000" />
+      <workItem from="1700268143437" duration="758000" />
+      <workItem from="1700439873342" duration="4283000" />
+      <workItem from="1705431126997" duration="306000" />
     </task>
+    <task id="LOCAL-00001" summary="Change remote theme">
+      <created>1697069735223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697069735223</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added webrick">
+      <created>1697069998740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697069998740</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Delete feed_meta tag">
+      <created>1697070023053</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697070023053</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added local theme config">
+      <created>1697070578226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697070578226</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add main.scss file">
+      <created>1697070790824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697070790824</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Remove local theme">
+      <created>1697070799939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697070799939</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix to not invert emoji colors when in night mode">
+      <created>1697071638232</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697071638232</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix emoji issue and added site title">
+      <created>1698782137637</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698782137637</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add personal url site">
+      <created>1698783890855</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698783890855</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add personal url site">
+      <created>1698783917399</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698783917399</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add OSS contributor to faker">
+      <created>1700268301414</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700268301414</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change remote theme" />
+    <MESSAGE value="Added webrick" />
+    <MESSAGE value="Delete feed_meta tag" />
+    <MESSAGE value="Added local theme config" />
+    <MESSAGE value="Add main.scss file" />
+    <MESSAGE value="Remove local theme" />
+    <MESSAGE value="Fix to not invert emoji colors when in night mode" />
+    <MESSAGE value="Fix emoji issue and added site title" />
+    <MESSAGE value="Add personal url site" />
+    <MESSAGE value="Add OSS contributor to faker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add OSS contributor to faker" />
   </component>
 </project>

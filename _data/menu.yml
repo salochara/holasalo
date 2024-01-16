@@ -1,12 +1,13 @@
 entries:
   - title: education
     entries:
-      - title: Computer Science at Tecnológico de Monterrey
+      - title: "<strong>(Current)</strong> Masters in Environmental Studies at Universidad del Medio Ambiente"
+      - title: Bachelor's in Computer Science at Tecnológico de Monterrey
       - title: Tel Aviv University (Semester abroad)
   - title: work
     entries:
       - title: "<strong>(Current)</strong> Lead Teacher at <a href='https://lewagon.com' target='_blank' rel='noopener noreferrer'>Le Wagon</a>"
-      - title: "<strong>(Current)</strong> Tech Consultant at <a href='https://holasoyvioletta.org/' target='_blank' rel='noopener noreferrer'>Hola Soy Violetta</a>"
+      - title: "Tech Consultant at <a href='https://holasoyvioletta.org/' target='_blank' rel='noopener noreferrer'>Hola Soy Violetta</a>"
       - title: "Software Engineer at <a href='https://www.housecallpro.com/' target='_blank' rel='noopener noreferrer'>HouseCallPro</a>"
       - title: "Software Engineer at <a href='https://www.herb.delivery/' target='_blank' rel='noopener noreferrer'>Herb</a>"
       - title: "Software Engineer at <a href='https://www.michelada.io/' target='_blank' rel='noopener noreferrer'>Michelada</a>"
