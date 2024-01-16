@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6b9c791-8001-4c35-8281-501ceb66b4f2" name="Changes" comment="Add OSS contributor to faker">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/menu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/menu.yml" afterDir="false" />
-    </list>
+    <list default="true" id="a6b9c791-8001-4c35-8281-501ceb66b4f2" name="Changes" comment="Add Masters" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +57,7 @@
       <workItem from="1699048176078" duration="3000" />
       <workItem from="1700268143437" duration="758000" />
       <workItem from="1700439873342" duration="4283000" />
-      <workItem from="1705431126997" duration="306000" />
+      <workItem from="1705431126997" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="Change remote theme">
       <created>1697069735223</created>
@@ -139,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700268301414</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add Masters">
+      <created>1705431689792</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1705431689792</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +171,7 @@
     <MESSAGE value="Fix emoji issue and added site title" />
     <MESSAGE value="Add personal url site" />
     <MESSAGE value="Add OSS contributor to faker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add OSS contributor to faker" />
+    <MESSAGE value="Add Masters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Masters" />
   </component>
 </project>
